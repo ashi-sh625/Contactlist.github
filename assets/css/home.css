@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+}
+body{
+    margin:0px;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+/* p{
+    display: inline;
+} */
+li{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: midnightblue;
+    color:white;
+    width:75%;
+    margin:auto;
+}
+li a{
+    color: white;
+}
+input{
+    border-width:0px 0px 1px 0px;
+    /* margin-top: 12px; */
+    margin:12px
+}
+li:hover{
+    background-color: rgb(21, 190, 32);
+}
+.abc{
+    width:145px
+}
